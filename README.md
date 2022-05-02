@@ -1,5 +1,7 @@
 ## CAPI_CARHUD
 
+Discord: https://discord.gg/4JB7exW2V6
+
 ###### ES ######
 
 # Requisitos
